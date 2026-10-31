@@ -19,7 +19,7 @@
     "clicks": 842
   },
   "createdAt": "2026-09-18T09:00:00+07:00",
-  "updatedAt": "2026-10-26T01:36:08.268Z",
+  "updatedAt": "2026-10-31T16:18:38.202Z",
   "blocks": [
     {
       "id": "hero_npclp0a",
@@ -58,15 +58,15 @@
       "id": "product_sfxnl3f",
       "type": "product",
       "props": {
-        "name": "ชื่อสินค้า",
-        "description": "รายละเอียดสินค้า",
-        "image": "",
+        "name": "ชื่อสินค้า โปรสุดคุ้ม",
+        "description": "รายละเอียดสินค้า ลูกค้าใหม่",
+        "image": "/assets/uploads/tiktok-shop-starter-kit-1793463484923.jpg",
         "price": 590,
         "compareAt": 790,
         "stockLeft": 20,
         "stockTotal": 50,
-        "ctaText": "สั่งซื้อตอนนี้",
-        "ctaUrl": "#product"
+        "ctaText": "กดสมัครตอนนี้",
+        "ctaUrl": "https://t.co/YR9U8A8Pca"
       }
     },
     {
@@ -76,10 +76,10 @@
         "title": "ลิงก์ทั้งหมด",
         "items": [
           {
-            "icon": "tiktok",
+            "icon": "line",
             "label": "ลิงก์",
             "sub": "",
-            "url": "https://"
+            "url": "https://t.co/YR9U8A8Pca"
           }
         ]
       }
@@ -260,5 +260,11 @@
         "showBadge": true
       }
     }
-  ]
+  ],
+  "tracking": {
+    "facebookPixelId": "",
+    "lineTagId": "",
+    "tiktokPixelId": ""
+  },
+  "customCss": ""
 }
