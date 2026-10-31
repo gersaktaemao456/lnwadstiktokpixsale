@@ -1,0 +1,264 @@
+{
+  "id": "tiktok-shop-starter-kit",
+  "slug": "tiktok-shop-starter-kit",
+  "title": "TikTok Shop Starter Kit",
+  "brand": "PIXSALE Studio",
+  "status": "published",
+  "template": "product",
+  "theme": {
+    "accent": "#d91e36",
+    "mode": "light",
+    "font": "sans"
+  },
+  "seo": {
+    "title": "TikTok Shop Starter Kit — เริ่มขายจริงใน 7 วัน",
+    "description": "ชุดเริ่มต้นสำหรับคนที่อยากขายบน TikTok Shop: เทมเพลต caption, ปฏิทินคอนเทนต์ 30 วัน, เช็กลิสต์ก่อนไลฟ์ และคลังคำตอบลูกค้า"
+  },
+  "stats": {
+    "views": 12480,
+    "clicks": 842
+  },
+  "createdAt": "2026-09-18T09:00:00+07:00",
+  "updatedAt": "2026-10-26T01:36:08.268Z",
+  "blocks": [
+    {
+      "id": "hero_npclp0a",
+      "type": "hero",
+      "props": {
+        "kicker": "เหลือ 12 ชิ้น · ลด 40%",
+        "title": "เริ่มขายบน TikTok",
+        "titleAccent": "ให้ได้จริงใน 7 วัน",
+        "subtitle": "ไม่ต้องมีทีม ไม่ต้องมีกล้องแพง — ใช้ชุดเริ่มต้นที่รวมทุกอย่างตั้งแต่ไอเดียคอนเทนต์แรก ไปจนถึงสคริปต์ปิดการขายในไลฟ์",
+        "badge": "ลด 40%",
+        "image": "/assets/img/kit.svg",
+        "imageAlt": "กล่องชุดเริ่มต้น TikTok Shop Starter Kit",
+        "ctaText": "สั่งซื้อชุดเริ่มต้น",
+        "ctaUrl": "#product",
+        "trust": [
+          "ส่งไฟล์ทันทีหลังชำระ",
+          "ใช้ได้ตลอดชีพ",
+          "มีกลุ่มถามตอบ"
+        ]
+      }
+    },
+    {
+      "id": "faq_fumnn76",
+      "type": "faq",
+      "props": {
+        "title": "คำถามที่พบบ่อย",
+        "items": [
+          {
+            "q": "คำถาม",
+            "a": "คำตอบ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "product_sfxnl3f",
+      "type": "product",
+      "props": {
+        "name": "ชื่อสินค้า",
+        "description": "รายละเอียดสินค้า",
+        "image": "",
+        "price": 590,
+        "compareAt": 790,
+        "stockLeft": 20,
+        "stockTotal": 50,
+        "ctaText": "สั่งซื้อตอนนี้",
+        "ctaUrl": "#product"
+      }
+    },
+    {
+      "id": "links_na6u8z6",
+      "type": "links",
+      "props": {
+        "title": "ลิงก์ทั้งหมด",
+        "items": [
+          {
+            "icon": "tiktok",
+            "label": "ลิงก์",
+            "sub": "",
+            "url": "https://"
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer_6kxl03i",
+      "type": "footer",
+      "props": {
+        "note": "© 2026 แบรนด์ของคุณ",
+        "showBadge": true
+      }
+    },
+    {
+      "id": "links_m6jz3rr",
+      "type": "links",
+      "props": {
+        "title": "ลิงก์ทั้งหมด",
+        "items": [
+          {
+            "icon": "link",
+            "label": "ลิงก์",
+            "sub": "",
+            "url": "https://"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cta_ryu1vcz",
+      "type": "cta",
+      "props": {
+        "title": "พร้อมสั่งซื้อหรือยัง?",
+        "subtitle": "กดปุ่มด้านล่างได้เลย",
+        "buttonText": "สั่งซื้อตอนนี้",
+        "buttonUrl": "#product",
+        "note": ""
+      }
+    },
+    {
+      "id": "faq_0gxafhw",
+      "type": "faq",
+      "props": {
+        "title": "คำถามที่พบบ่อย",
+        "items": [
+          {
+            "q": "คำถาม",
+            "a": "คำตอบ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "prod_i8kjeig",
+      "type": "product",
+      "props": {
+        "name": "TikTok Shop Starter Kit",
+        "description": "ไฟล์ดิจิทัล 4 ชุด + วิดีโอสอน 90 นาที เปิดอ่านได้ทุกอุปกรณ์",
+        "image": "/assets/img/kit.svg",
+        "price": 690,
+        "compareAt": 1150,
+        "stockLeft": 12,
+        "stockTotal": 50,
+        "ctaText": "สั่งซื้อตอนนี้ · ฿690",
+        "ctaUrl": "#product"
+      }
+    },
+    {
+      "id": "bene_6q7l077",
+      "type": "benefits",
+      "props": {
+        "title": "ในชุดมีอะไรบ้าง",
+        "items": [
+          {
+            "icon": "calendar",
+            "title": "ปฏิทินคอนเทนต์ 30 วัน",
+            "desc": "ตารางโพสต์รายวัน พร้อมหัวข้อและเวลาที่เหมาะกับคนไทย"
+          },
+          {
+            "icon": "book",
+            "title": "เทมเพลต caption 25 แบบ",
+            "desc": "คัดลอกไปใช้ได้ทันที ปรับตามสินค้าของคุณ"
+          },
+          {
+            "icon": "check",
+            "title": "เช็กลิสต์ก่อนไลฟ์",
+            "desc": "เตรียมสินค้า แสง เสียง และลำดับการพูดใน 1 หน้า"
+          },
+          {
+            "icon": "chat",
+            "title": "คลังตอบลูกค้า 40 ประโยค",
+            "desc": "ตอบคำถามยอดนิยมเรื่องส่งของ เปลี่ยนคืน และโปรโมชัน"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rev_1wq3sqa",
+      "type": "reviews",
+      "props": {
+        "title": "เสียงจากคนที่เริ่มแล้ว",
+        "rating": 4.9,
+        "count": 218,
+        "items": [
+          {
+            "name": "ณภัทร ศ.",
+            "text": "ใช้ปฏิทิน 30 วันแล้วโพสต์ต่อเนื่อง คลิปแรกที่ทำตามได้ 3.2 หมื่นวิว ขายได้ 14 ออเดอร์ในสัปดาห์แรก",
+            "rating": 5,
+            "avatar": "/assets/img/avatar-1.svg",
+            "verified": true
+          },
+          {
+            "name": "กิตติพงษ์ ท.",
+            "text": "เช็กลิสต์ก่อนไลฟ์ช่วยมากครับ เมื่อก่อนพูดไปเรื่อย ตอนนี้มีลำดับชัด ลูกค้าอยู่ยาวขึ้น",
+            "rating": 5,
+            "avatar": "/assets/img/avatar-2.svg",
+            "verified": true
+          },
+          {
+            "name": "พิมพ์ชนก ส.",
+            "text": "ชอบที่ไฟล์กระชับ ไม่ยัดทฤษฎี ยกตัวอย่างจริงและเอาไปใช้ได้เลย",
+            "rating": 4,
+            "avatar": "/assets/img/avatar-3.svg",
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "cd_3m9rk39",
+      "type": "countdown",
+      "props": {
+        "title": "ราคาเปิดตัว",
+        "subtitle": "หลังหมดเวลา กลับไปราคาเต็ม ฿1,150",
+        "endsAt": "2026-11-30T23:59:59+07:00"
+      }
+    },
+    {
+      "id": "faq_uerotpu",
+      "type": "faq",
+      "props": {
+        "title": "คำถามก่อนสั่งซื้อ",
+        "items": [
+          {
+            "q": "ได้รับไฟล์เมื่อไร",
+            "a": "ทันทีหลังชำระเงิน ระบบจะส่งลิงก์ดาวน์โหลดไปที่อีเมลของคุณ และมีสำรองในหน้าสั่งซื้ออีกครั้ง"
+          },
+          {
+            "q": "ใช้กับสินค้าอะไรได้บ้าง",
+            "a": "ใช้ได้กับสินค้าทุกประเภทบน TikTok Shop ทั้งของใช้ในบ้าน ความงาม และแฟชั่น เพราะเป็นโครงสร้างเนื้อหา ไม่ใช่สคริปต์ตายตัว"
+          },
+          {
+            "q": "มีอายุการใช้งานไหม",
+            "a": "ไม่มีครับ ไฟล์เป็นของคุณตลอดชีพ รวมถึงอัปเดตครั้งถัดไป"
+          },
+          {
+            "q": "ขอใบเสร็จได้ไหม",
+            "a": "ได้ครับ ระบุชื่อและเลขผู้เสียภาษีในหน้าชำระเงิน ระบบจะออกใบเสร็จให้อัตโนมัติ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cta_282b9k5",
+      "type": "cta",
+      "props": {
+        "title": "พร้อมเริ่มคืนนี้?",
+        "subtitle": "ใช้เวลา 7 วันแรกให้คุ้ม — เริ่มจากคลิปแรกที่คุณยังไม่ได้ถ่าย",
+        "buttonText": "สั่งซื้อเลย · ฿690",
+        "buttonUrl": "#product",
+        "note": "ชำระผ่าน PromptPay หรือบัตร · ใบเสร็จส่งทางอีเมล"
+      }
+    },
+    {
+      "id": "foot_d5guhs4",
+      "type": "footer",
+      "props": {
+        "note": "© 2026 PIXSALE Studio · สงวนสิทธิ์ทุกข้อ",
+        "showBadge": true
+      }
+    }
+  ]
+}
